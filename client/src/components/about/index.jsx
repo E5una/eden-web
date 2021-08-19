@@ -64,7 +64,7 @@ const About = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>PUP has a B- in h2h rating</td>
+                  <td>PUP has a B in h2h rating</td>
                   <td>PUP has a C+ in h2h rating</td>
                   <td>balancing</td>
                 </tr>
